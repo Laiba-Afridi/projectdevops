@@ -1,0 +1,6 @@
+{
+  "build": {
+    "dockerfilePath": "myapp/Dockerfile",
+    "context": "myapp"
+  }
+}
